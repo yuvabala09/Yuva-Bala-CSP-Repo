@@ -5,18 +5,31 @@ description: Home Page
 image: /images/mario_animation.png
 hide: true
 ---
-
-<p>
-<button>    
-   Hello
+          
+<div style="border: 2px solid white">
+<p> Hello </p>
 <button>
-<div>
-   <a href="https://www.messivsronaldo.app/">
-
-   </a>
+Button
+</button>
+<br>
 </div>
-</p>
-               
+
+
+<br>
+
+<div style="border: 2px solid white">
+  <p> Micheal Jordan vs Lebron James </p>
+  <a href="https://www.sportingnews.com/us/nba/news/michael-jordan-vs-lebron-james-goat-debate/sl8xdozy5u1m1s4t5m3npeqo1">
+  <button type="button">MJ vs LBJ
+  </button>
+</a>
+
+<p> Christiano Ronaldo vs Lionel Messi </p>
+<a href="https://www.messivsronaldo.app/">
+<button type="button">CR7 vs La Pulga
+</button>
+</a>
+</div>
 
 <!--- Concatenation of simakete URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
