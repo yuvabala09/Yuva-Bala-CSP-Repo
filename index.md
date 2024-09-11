@@ -6,6 +6,19 @@ image: /images/mario_animation.png
 hide: true
 ---
           
+<table>
+  <tr>
+    <th>
+      <a href="{{site.baseurl}}/">
+        <img src="{{site.baseurl}}/images/favicon.ico" width="60" height="60">
+      </a>
+    </th>
+    <th><h3><a href=""> Later </a></h3></th>
+    <th><h3><a href=""> Later </a></h3></th>
+    <th><h3><a href=""> Later </a></h3></th>
+  </tr>
+</table>
+
 <div style="border: 2px solid white">
 <p> Hello </p>
 <button>
