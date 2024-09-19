@@ -14,6 +14,7 @@ hide: true
       </a>
     </th>
     <th><h3><a href=""> Notebook 2 </a></h3></th>
+    <th><h3><a href="{{site.baseurl}}/2024/09/18/RandomNumb.html"> Random Number </a></h3></th>
     <th><h3><a href="{{site.baseurl}}/2024/09/16/Calculator.html"> JS Calculator </a></h3></th>
     <th><h3><a href="{{site.baseurl}}/2024/09/16/Snake.html"> Snake Game </a></h3></th>
   </tr>
@@ -43,6 +44,39 @@ Button
 </button>
 </a>
 </div>
+
+<br>
+
+<div style="border: 2px solid white">
+  <p> Shortcuts </p>
+  
+  <a href="https://github.com/nighthawkcoders/teacher_portfolio">
+  <button type="button"> teacher_portfolio
+  </button>
+  </a>
+
+  <a href="https://github.com/nighthawkcoders/portfolio_2025">
+  <button type="button"> portfolio_2025
+  </button>
+  </a>
+
+  <a href="https://github.com/yuvabala09/yuvabalacsprepo">
+  <button type="button"> yuvabalacsprepo
+  </button>
+  </a>
+
+  <a href="https://app.slack.com/client/TUDAF53UJ/CUS8E3M6Z?cdn_fallback=1">
+  <button type="button"> csp_slack
+  </button>
+  </a>
+
+  <a href="https://github.com/yuvabala09/Yuva-CSSE-Repo">
+  <button type="button"> yuva_csse_repo
+  </button>
+  </a>
+
+</div>
+
 
 <!--- Concatenation of simakete URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
