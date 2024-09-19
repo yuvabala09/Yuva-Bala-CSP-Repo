@@ -156,6 +156,12 @@ HTML implementation of the calculator.
           case "sqrt":
               result = Math.sqrt (first)
               break;
+          case "a^b":
+              result = first ** second
+              break;
+          case "reciprocal"
+              result = 1 / first
+              break;
           default: 
               break;
       }
