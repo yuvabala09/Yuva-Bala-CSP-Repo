@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: All About Yuva Bala
 permalink: /about/
+toc: True
 comments: True
 ---
 
