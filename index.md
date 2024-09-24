@@ -13,10 +13,11 @@ hide: true
         <img src="{{site.baseurl}}/images/favicon.ico" width="60" height="60">
       </a>
     </th>
-    <th><h3><a href=""> Notebook 2 </a></h3></th>
+    <th><h3><a href="{{site.baseurl}}/2024/09/20/emojinewspaper_IPYNB_2_.html"> Emoji & Newspaper </a></h3></th>
     <th><h3><a href="{{site.baseurl}}/2024/09/18/RandomNumb.html"> Random Number </a></h3></th>
     <th><h3><a href="{{site.baseurl}}/2024/09/16/Calculator.html"> JS Calculator </a></h3></th>
     <th><h3><a href="{{site.baseurl}}/2024/09/16/Snake.html"> Snake Game </a></h3></th>
+    <th><h3><a href="{{site.baseurl}}/2024/09/20/CookieClicker.html"> Cookie Clicker </a></h3></th>
   </tr>
 </table>
 
